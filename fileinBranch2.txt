@@ -1,3 +1,5 @@
 This is another file in the branch. 
 
 Added to see how different commits can be rebased interactively in Git. 
+
+ejercicio git stash
